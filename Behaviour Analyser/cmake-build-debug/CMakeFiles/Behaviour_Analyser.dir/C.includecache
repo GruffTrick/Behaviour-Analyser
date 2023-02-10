@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/functions.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+ctype.h
+-
+limits.h
+-
+
+/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/graphs.c
+functions.h
+/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/functions.h
+

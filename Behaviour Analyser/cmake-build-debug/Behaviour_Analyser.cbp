@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Behaviour_Analyser"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Behaviour_Analyser">
+				<Option output="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/cmake-build-debug/Behaviour_Analyser.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 Behaviour_Analyser"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Behaviour_Analyser/fast">
+				<Option output="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/cmake-build-debug/Behaviour_Analyser.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 Behaviour_Analyser/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/i/Assignments\ Year\ 2/C\ Assignment/Behaviour\ Analyser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/config.c">
+			<Option target="Behaviour_Analyser"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/csv.c">
+			<Option target="Behaviour_Analyser"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/functions.h">
+			<Option target="Behaviour_Analyser"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/graphs.c">
+			<Option target="Behaviour_Analyser"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/main.c">
+			<Option target="Behaviour_Analyser"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/movements.c">
+			<Option target="Behaviour_Analyser"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/reader.c">
+			<Option target="Behaviour_Analyser"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/Assignments Year 2/C Assignment/Behaviour Analyser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
